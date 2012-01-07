@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sjmp3>
+  <config>
+    <skin>
+      <laf>org.pushingpixels.substance.api.skin.SubstanceModerateLookAndFeel</laf>
+      <theme />
+      <effects>true</effects>
+    </skin>
+    <mixer>100</mixer>
+    <mute>false</mute>
+    <player>0</player>
+    <mode>loop</mode>
+    <m3u>
+      <list0 />
+      <list1 />
+      <list2 />
+      <list3 />
+      <list4 />
+      <list5 />
+      <list6 />
+    </m3u>
+    <dir>
+      <folder0 />
+      <folder1 />
+      <folder2 />
+      <folder3 />
+      <folder4 />
+      <folder5 />
+      <folder6 />
+    </dir>
+    <proxy>
+      <ip>127.0.0.1</ip>
+      <port>3128</port>
+      <login />
+      <passw />
+      <use>false</use>
+    </proxy>
+  </config>
+</sjmp3>
